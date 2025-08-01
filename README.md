@@ -1,10 +1,10 @@
 # 📘 CS50 Projects
 
-Este repositório contém os meus projetos e exercícios resolvidos durante o curso [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), da Universidade de Harvard.
+Este repositório contém os meus projetos e exercícios resolvidos durante o curso [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), de Harvard.
 
 ## 🚀 Sobre o curso
 
-O CS50 é um curso de introdução à Ciência da Computação. Ele cobre fundamentos de programação, algoritmos, estruturas de dados e etc — tudo isso com foco em resolução de problemas e pensamento computacional.
+O CS50 é um curso de introdução à Ciência da Computação. Ele ensina fundamentos de programação, algoritmos, linguagens, estruturas de dados e etc — tudo isso com foco em resolução de problemas e pensamento computacional.
 
 ---
 
@@ -31,12 +31,6 @@ O CS50 é um curso de introdução à Ciência da Computação. Ele cobre fundam
 - Linguagem: **C**
 - IDE: [CS50 IDE](https://cs50.io/) / VS Code
 - GitHub para versionamento e portfólio
-
----
-
-## 📫 Contato
-Se quiser trocar ideia ou acompanhar meu progresso:
-- GitHub: [@Kaua-TechDev](https://github.com/Kaua-TechDev)
 
 ---
 
