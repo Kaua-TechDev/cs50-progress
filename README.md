@@ -15,9 +15,9 @@ O CS50 é um curso de introdução à Ciência da Computação. Ele ensina funda
 - [x] `credit.c` – Validador de número de cartão (Luhn)
 
 ### 📦 Semana 2 – Arrays
-- [ ] `readability.c` – Índice de legibilidade
-- [ ] `substitution.c` – Cifra de substituição
-- [ ] `caesar.c` – Cifra de César
+- [x] `scrabble.c` – Scrabble game
+- [x] `readability.c` – Índice de legibilidade
+- [x] `substitution.c` – Cifra de substituição
 
 ### 📦 Semana 3 – Algoritmos
 - [ ] `sort.c` – Bubble, Selection e Insertion Sort
